@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Ying Zhou",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "yingzhou@sdu.edu.cn",
+    "phone": "131-6177-7973",
+    "url": "https://zhouying20.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
@@ -24,10 +24,10 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
+      "name": "Shandong University",
+      "position": "Assistant Professor",
+      "url": "https://zhouying20.github.io/",
+      "startDate": "2025-07",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]

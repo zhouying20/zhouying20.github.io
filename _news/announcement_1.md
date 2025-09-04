@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-07-22
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I joined <a href='https://www.ai.sdu.edu.cn/'>School of Artificial Intelligence</a>, <a href='https://www.sdu.edu.cn/'>Shandong University</a>
