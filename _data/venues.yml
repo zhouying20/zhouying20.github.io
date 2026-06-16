@@ -1,35 +1,39 @@
 "ACL":
   url: https://www.aclweb.org/anthology/
-  color: "#ff5722"
+  color: "#ee3344"
 
 "EMNLP":
   url: https://www.emnlp.org/
-  color: "#009688"
+  color: "#242424"
 
 "NAACL":
   url: https://naacl.org/
-  color: "#0072b8"
+  color: "#999933"
 
 "COLING":
   url: https://coling2022.org/
-  color: "#6d4c41"
+  color: "#2d68ff"
 
 "SIGIR":
   url: https://sigir.org/
-  color: "#5c6bc0"
+  color: "#357b49"
 
 "ICLR":
   url: https://iclr.cc/
-  color: "#ff5722"
+  color: "#58c9ed"
 
 "NeurIPS":
   url: https://nips.cc/
-  color: "#0072b8"
+  color: "#68448b"
 
 "ICML":
   url: https://icml.cc/
-  color: "#ff5722"
+  color: "#2a419e"
+
+"IJCAI":
+  url: https://www.ijcai.org/
+  color: "#bd3800"
 
 "arXiv":
   url: https://arxiv.org/
-  color: "#607d8b"
+  color: "#6b6459"

@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-<h4>Conference Reviewer or Program Committee Member</h4>
+<h4>Conference Area Chair or Program Committee Member</h4>
 <ul>
   <li>Annual Meeting of the Association for Computational Linguistics (ACL)</li>
   <li>Conference on Empirical Methods in Natural Language Processing (EMNLP)</li>
@@ -17,6 +17,8 @@ nav_order: 3
 
 <h4>Journal Reviewer</h4>
 <ul>
+  <li>Transactions on Information Systems (TOIS)</li>
+  <li>Transactions on Intelligent Systems and Technology (TIST)</li>
   <li>Information Processing & Management (IPM)</li>
 </ul>
 
