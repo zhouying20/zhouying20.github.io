@@ -25,7 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently an Assistant Professor in the School of Artificial Intelligence at the Shandong University (SDU), Jinan, China. I received my PhD in 2025 from the Institute of Software, Chinese Academy of Sciences (ISCAS), where I worked in the Chinese Information Processing Laboratory under the supervision of <a href="https://www.icip.org.cn/team/heben/">Prof. Ben He</a>. Prior to that, I obtained my bachelor's degree in Software Engineering from Shandong University in 2020.
+I am currently an Assistant Professor in the School of Artificial Intelligence at the Shandong University (SDU), Jinan, China. 
+<!-- I received my PhD in 2025 from the Institute of Software, Chinese Academy of Sciences (ISCAS), where I worked in the Chinese Information Processing Laboratory under the supervision of <a href="https://www.icip.org.cn/team/heben/">Prof. Ben He</a>.  -->
+I received my PhD in 2025 from the University of Chinese Academy of Sciences.
+Prior to that, I obtained my bachelor's degree in Software Engineering from Shandong University in 2020.
 
 My recent research focuses on the generation and understanding mechanisms of large language models, with particular interests in AI-generated text detection and safety, LLM interpretability, and generative information retrieval.
 
