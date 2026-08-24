@@ -4,7 +4,7 @@
 
 "EMNLP":
   url: https://www.emnlp.org/
-  color: "#242424"
+  color: "#2d68ff"
 
 "NAACL":
   url: https://naacl.org/
@@ -12,7 +12,7 @@
 
 "COLING":
   url: https://coling2022.org/
-  color: "#2d68ff"
+  color: "#6f42c1"
 
 "SIGIR":
   url: https://sigir.org/

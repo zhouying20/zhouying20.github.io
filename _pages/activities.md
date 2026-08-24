@@ -11,6 +11,7 @@ nav_order: 3
   <li>Annual Meeting of the Association for Computational Linguistics (ACL)</li>
   <li>Conference on Empirical Methods in Natural Language Processing (EMNLP)</li>
   <li>Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)</li>
+  <li>Annual AAAI Conference on Artificial Intelligence (AAAI)</li>
   <li>International Conference on Computational Linguistics (COLING)</li>
   <li>Conference on Language Modeling (COLM)</li>
 </ul>

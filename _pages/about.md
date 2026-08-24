@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently an Assistant Professor in the School of Artificial Intelligence at the Shandong University (SDU), Jinan, China. 
+I am currently an Assistant Professor in the School of Artificial Intelligence at the Shandong University (SDU), Jinan, China.
 <!-- I received my PhD in 2025 from the Institute of Software, Chinese Academy of Sciences (ISCAS), where I worked in the Chinese Information Processing Laboratory under the supervision of <a href="https://www.icip.org.cn/team/heben/">Prof. Ben He</a>.  -->
 I received my PhD in 2025 from the University of Chinese Academy of Sciences.
 Prior to that, I obtained my bachelor's degree in Software Engineering from Shandong University in 2020.
